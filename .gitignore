@@ -1,0 +1,8 @@
+.vscode/
+OfferingSelector.spec
+__pycache__/
+build/
+dist/
+linux-dist/
+venv/
+venv2/
